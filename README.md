@@ -3,10 +3,10 @@ guides
 
 ## TOC
 
-* Protocols
-  * Git
+* [Protocols](/protocols)
+  * [Git](/protocols/git)
     * Comments
-  * Ruby
+  * [Ruby](/protocols/ruby)
     * syntax
     * Rails
       * Upload
@@ -19,7 +19,7 @@ guides
   * (Android)
     * syntax
     * structure
-  * stylesheet
+  * stylesheet (scss)
     * syntax
     * structure
   * javascript
