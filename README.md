@@ -23,3 +23,7 @@ guides
   * javascript
     * syntax
     * structure
+* Workflow
+  * Workspace
+  * Development
+  * Deployment
