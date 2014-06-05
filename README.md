@@ -12,7 +12,7 @@ guides
       * Upload
       * Connection
       * Configuration (assets)
-  * iOS
+  * [iOS](/protocols/ios)
     * syntax
     * structure
     * dependencies (cocoapods)
@@ -26,7 +26,7 @@ guides
     * syntax
     * structure
 
-* Workflow
+* [Workflow](/workflow)
   * Workspace
   * Development
-  * Deployment
+  * [Deployment](/workflow/deployment)
