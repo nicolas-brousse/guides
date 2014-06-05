@@ -1,15 +1,17 @@
 guides
 ======
 
+## TOC
 
-* Protocol
+* Protocols
   * Git
     * Comments
-  * Rails
-    * Upload
-    * Connection
-    * Configuration (assets)
+  * Ruby
     * syntax
+    * Rails
+      * Upload
+      * Connection
+      * Configuration (assets)
   * iOS
     * syntax
     * structure
@@ -23,6 +25,7 @@ guides
   * javascript
     * syntax
     * structure
+
 * Workflow
   * Workspace
   * Development
