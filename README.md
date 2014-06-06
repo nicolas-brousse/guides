@@ -5,17 +5,15 @@ guides
 
 * [Protocols](/protocols)
   * [Git](/protocols/git)
-    * Comments
   * [Ruby](/protocols/ruby)
-    * syntax
-    * Rails
-      * Upload
-      * Connection
-      * Configuration (assets)
   * [iOS](/protocols/ios)
-    * syntax
-    * structure
-    * dependencies (cocoapods)
+* [Workflow](/workflow)
+  * [Deployment](/workflow/deployment)
+
+
+### TODO
+
+* [Protocols](/protocols)
   * (Android)
     * syntax
     * structure
@@ -25,8 +23,6 @@ guides
   * javascript
     * syntax
     * structure
-
 * [Workflow](/workflow)
   * Workspace
   * Development
-  * [Deployment](/workflow/deployment)
