@@ -1,14 +1,7 @@
-# Protocols / Ruby
-
-Do main subject "Rails" instead of "Ruby"?
-* syntax
-* Rails
-  * Upload
-  * Connection
-  * Configuration (assets)
+# Protocols / Rails
 
 
-## Bases
+## Ruby Bases
 
 Indent: 2 spaces
 File example [ruby.rb](../examples/ruby.rb).
@@ -23,6 +16,18 @@ link to http://nicolas-brousse.github.io/osx-install-and-tips/?
 
 ## DRY
 
+A great ruby app is DRY (Don't Repeat Yourself).
+
 ## CRUD
 
 A resource = `index + show + new + create + edit + update + destroy`
+
+## Snippets
+
+### Connection
+
+`gem Devise`
+
+### Upload
+
+### Configuration (assets)
