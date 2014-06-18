@@ -5,6 +5,7 @@
 
 Indent: 2 spaces
 File example [ruby.rb](../examples/ruby.rb).
+https://github.com/styleguide/ruby
 
 
 ## Bundler
