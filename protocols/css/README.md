@@ -1,4 +1,11 @@
 # Protocols / CSS
 
 
-Take inspiration with https://github.com/styleguide/css and http://furiouzz.github.io/htmltips/.
+Take inspiration with:
+* https://github.com/styleguide/css
+* http://furiouzz.github.io/htmltips/
+* https://speakerdeck.com/bleikamp/sass-at-github
+
+## Syntax
+
+## Structure
