@@ -6,6 +6,7 @@ guides
 * [Protocols](/protocols)
   * [Git](/protocols/git)
   * [Rails](/protocols/rails)
+  * [CSS](/protocols/css)
   * [iOS](/protocols/ios)
 * [Workflow](/workflow)
   * [Deployment](/workflow/deployment)
