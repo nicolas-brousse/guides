@@ -18,9 +18,6 @@ guides
   * (Android)
     * syntax
     * structure
-  * stylesheet (scss)
-    * syntax
-    * structure
   * javascript
     * syntax
     * structure
