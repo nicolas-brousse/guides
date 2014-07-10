@@ -24,3 +24,6 @@ guides
 * [Workflow](/workflow)
   * Workspace
   * Development
+
+
+Add design section -> http://webdesignerschecklist.com/
