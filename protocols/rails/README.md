@@ -23,6 +23,17 @@ A great ruby app is DRY (Don't Repeat Yourself).
 
 A resource = `index + show + new + create + edit + update + destroy`
 
+## Gems
+
+### Generic
+
+* `devise`: https://github.com/plataformatec/devise
+* `friendly_id`: https://github.com/norman/friendly_id
+
+### Usefull
+
+* `image_optim`: https://github.com/toy/image_optim
+
 ## Snippets
 
 ### Connection
