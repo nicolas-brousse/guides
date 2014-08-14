@@ -6,6 +6,9 @@ Take inspiration with:
 * http://furiouzz.github.io/htmltips/
 * https://speakerdeck.com/bleikamp/sass-at-github
 
+**Lib**
+* https://developers.google.com/web/starter-kit/
+
 ## Syntax
 
 ## Structure
