@@ -33,6 +33,7 @@ A resource = `index + show + new + create + edit + update + destroy`
 ### Usefull
 
 * `image_optim`: https://github.com/toy/image_optim
+* `audited-activerecord`: https://github.com/collectiveidea/audited
 
 ## Snippets
 
