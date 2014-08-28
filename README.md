@@ -9,6 +9,7 @@ guides
   * [CSS](/protocols/css)
   * [iOS](/protocols/ios)
 * [Workflow](/workflow)
+  * [Integration](/workflow/integration)
   * [Deployment](/workflow/deployment)
 
 
