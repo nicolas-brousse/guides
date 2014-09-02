@@ -28,12 +28,16 @@ A resource = `index + show + new + create + edit + update + destroy`
 ### Generic
 
 * `devise`: https://github.com/plataformatec/devise
+
+### ActiveRecord
+
 * `friendly_id`: https://github.com/norman/friendly_id
+* `audited-activerecord`: https://github.com/collectiveidea/audited
+* `acts_as_follower`: https://github.com/tcocca/acts_as_follower
 
 ### Usefull
 
 * `image_optim`: https://github.com/toy/image_optim
-* `audited-activerecord`: https://github.com/collectiveidea/audited
 
 ## Snippets
 
