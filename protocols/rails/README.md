@@ -51,4 +51,7 @@ A resource = `index + show + new + create + edit + update + destroy`
 
 ### Upload
 
+* `carrierwave`: https://github.com/carrierwaveuploader/carrierwave
+* `carrierwave_retina`: https://github.com/jhnvz/carrierwave_retina
+
 ### Configuration (assets)
